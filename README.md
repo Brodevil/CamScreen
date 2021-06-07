@@ -1,7 +1,7 @@
 # CamScreen
 - A simple Python application for Screen Recording using open-cv.
 - Program return the recording in `.mp4` extension.
-- We can use it for several pourposes in our day to day life.<br><br>
+- We can use it for several pourposes in our day to day life.
 
 ## How to Use it :
 1. First a fall python should be installed in your PC.
