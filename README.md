@@ -3,8 +3,6 @@
 - Program return the recording in `.mp4` extension.
 - We can use it for several pourposes in our day to day life.<br><br>
 
-<img scr="screen-recorder.jpg" alt="CamScreen" >
-
 ## How to Use it :
 1. First a fall python should be installed in your PC.
 2. Then need to fork the project and download its zip file or just by `git clone git@github.com:Brodevil/CamScreen.git` in the terminal.
